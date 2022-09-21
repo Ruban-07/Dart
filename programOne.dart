@@ -1,3 +1,5 @@
+// To get an age as a input from a user and to check how many years they have to be 100 years old.
+
 import 'dart:io';
 
 void main() {
