@@ -7,11 +7,11 @@ void main() {
 
   String name = stdin.readLineSync()!;
 
-  print("Hello! $name, Please enter your age");
+  print("Hello! $name, Please enter your age :");
 
   int age = int.parse(stdin.readLineSync()!);
 
   int toReachHundred = 100 - age;
 
-  print("$name, you have $toReachHundred years to reach 100");
+  print("$name, you have $toReachHundred years to reach 100.");
 }
